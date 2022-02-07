@@ -23,7 +23,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 
 
 ```sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot
+$ git clone https://github.com/Bullymaguire69/Telegram_VC_Bot
 $ cd Telegram_VC_Bot
 $ sudo apt-get install ffmpeg
 $ pip3 install -U pip
@@ -52,7 +52,7 @@ $ python3 generate_string_session.py
 Fork this repository and change name of `sample_config.py` to `config.py`
 Then you will need get a session string, copy it, then press heroku deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thehamkercat/Telegram_VC_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bullymaguire69/Telegram_VC_Bot/tree/master)
 
 
 Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
